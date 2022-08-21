@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sfd-shubham.lwc-l72pnlas-fork-l72puqnc",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve iEEXTmWDk4TekThZJYs5 --open"
+  }
+}
